@@ -1,10 +1,15 @@
 {
+  "store_urls": {
+    "android": "https://play.google.com/store/apps/details?id=com.tudings.jid",
+    "ios": "https://apps.apple.com/app/id000000000"
+  },
+  "version_popup_interval_hours": 72,
+  "promotion_popup_interval_hours": 72,
   "locales": {
     "ko": {
       "app_config": {
         "recommended_version": "1.0.0",
-        "required_version": "1.0.0",
-        "popup_interval_hours": 72
+        "required_version": "1.0.0"
       },
       "upgrade_info": {
         "recommended_upgrade": {
@@ -25,8 +30,7 @@
     "en": {
       "app_config": {
         "recommended_version": "1.0.0",
-        "required_version": "1.0.0",
-        "popup_interval_hours": 72
+        "required_version": "1.0.0"
       },
       "upgrade_info": {
         "recommended_upgrade": {
@@ -47,8 +51,7 @@
     "ja": {
       "app_config": {
         "recommended_version": "1.0.0",
-        "required_version": "1.0.0",
-        "popup_interval_hours": 72
+        "required_version": "1.0.0"
       },
       "upgrade_info": {
         "recommended_upgrade": {
@@ -69,8 +72,7 @@
     "zh": {
       "app_config": {
         "recommended_version": "1.0.0",
-        "required_version": "1.0.0",
-        "popup_interval_hours": 72
+        "required_version": "1.0.0"
       },
       "upgrade_info": {
         "recommended_upgrade": {
@@ -91,8 +93,7 @@
     "default": {
       "app_config": {
         "recommended_version": "1.0.0",
-        "required_version": "1.0.0",
-        "popup_interval_hours": 72
+        "required_version": "1.0.0"
       },
       "upgrade_info": {
         "recommended_upgrade": {
