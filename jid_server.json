@@ -1,0 +1,114 @@
+{
+  "locales": {
+    "ko": {
+      "app_config": {
+        "recommended_version": "1.0.0",
+        "required_version": "1.0.0",
+        "popup_interval_hours": 72
+      },
+      "upgrade_info": {
+        "recommended_upgrade": {
+          "title": "새로운 버전이 출시되었습니다",
+          "msg": "더 나은 사용 경험을 위해 업데이트해 주세요."
+        },
+        "required_upgrade": {
+          "title": "업데이트가 필요합니다",
+          "msg": "안정적인 사용을 위해 최신 버전으로 업데이트해 주세요."
+        }
+      },
+      "promotion": {
+        "is_active": true,
+        "title": "더 많은 기능을 경험해 보세요! 👑",
+        "msg": "출시 기념 50% 할인!\n광고 제거와 무제한 그룹을 지금 만나보세요."
+      }
+    },
+    "en": {
+      "app_config": {
+        "recommended_version": "1.0.0",
+        "required_version": "1.0.0",
+        "popup_interval_hours": 72
+      },
+      "upgrade_info": {
+        "recommended_upgrade": {
+          "title": "Update Available",
+          "msg": "A new version is available.\nUpdate now for a better experience."
+        },
+        "required_upgrade": {
+          "title": "Update Required",
+          "msg": "A critical update is required for stability."
+        }
+      },
+      "promotion": {
+        "is_active": true,
+        "title": "Unlock More Features! 👑",
+        "msg": "Launch Special: 50% OFF!\nEnjoy ad-free use and unlimited groups."
+      }
+    },
+    "ja": {
+      "app_config": {
+        "recommended_version": "1.0.0",
+        "required_version": "1.0.0",
+        "popup_interval_hours": 72
+      },
+      "upgrade_info": {
+        "recommended_upgrade": {
+          "title": "新しいバージョンがあります",
+          "msg": "新しいバージョンが利用可能です。\nアップデートして、より快適にご利用ください。"
+        },
+        "required_upgrade": {
+          "title": "アップデートが必要です",
+          "msg": "安定した動作のために、最新バージョンへ更新してください。"
+        }
+      },
+      "promotion": {
+        "is_active": true,
+        "title": "もっと便利に使いましょう！ 👑",
+        "msg": "リリース記念 50% OFF！\n広告なし＆グループ無制限を今すぐ体験。"
+      }
+    },
+    "zh": {
+      "app_config": {
+        "recommended_version": "1.0.0",
+        "required_version": "1.0.0",
+        "popup_interval_hours": 72
+      },
+      "upgrade_info": {
+        "recommended_upgrade": {
+          "title": "发现新版本",
+          "msg": "新版本已上线。\n立即更新，体验更流畅的记录方式。"
+        },
+        "required_upgrade": {
+          "title": "需要更新版本",
+          "msg": "为了保证稳定运行，请更新到最新版本。"
+        }
+      },
+      "promotion": {
+        "is_active": true,
+        "title": "解锁更多功能！ 👑",
+        "msg": "限时 50% 优惠！\n立即享受无广告和无限分组功能。"
+      }
+    },
+    "default": {
+      "app_config": {
+        "recommended_version": "1.0.0",
+        "required_version": "1.0.0",
+        "popup_interval_hours": 72
+      },
+      "upgrade_info": {
+        "recommended_upgrade": {
+          "title": "Update Available",
+          "msg": "A new version is available.\nUpdate now for a better experience."
+        },
+        "required_upgrade": {
+          "title": "Update Required",
+          "msg": "A critical update is required for stability."
+        }
+      },
+      "promotion": {
+        "is_active": true,
+        "title": "Unlock More Features! 👑",
+        "msg": "Launch Special: 50% OFF!\nEnjoy ad-free use and unlimited groups."
+      }
+    }
+  }
+}
