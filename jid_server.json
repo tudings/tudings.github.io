@@ -3,13 +3,13 @@
     "android": "https://play.google.com/store/apps/details?id=com.tudings.jid",
     "ios": "https://apps.apple.com/app/id000000000"
   },
-  "version_popup_interval_hours": 72,
-  "promotion_popup_interval_hours": 72,
+  "version_popup_interval_hours": 1,
+  "promotion_popup_interval_hours": 1,
   "locales": {
     "ko": {
       "app_config": {
-        "recommended_version": "1.10.0",
-        "required_version": "1.0.0"
+        "recommended_version": "1.0.0",
+        "required_version": "1.10.0"
       },
       "upgrade_info": {
         "recommended_upgrade": {
