@@ -9,7 +9,7 @@
     "ko": {
       "app_config": {
         "recommended_version": "1.0.0",
-        "required_version": "1.10.0"
+        "required_version": "1.0.0"
       },
       "upgrade_info": {
         "recommended_upgrade": {
