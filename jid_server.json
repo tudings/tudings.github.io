@@ -1,7 +1,7 @@
 {
   "store_urls": {
     "android": "https://play.google.com/store/apps/details?id=com.tudings.jid",
-    "ios": "https://apps.apple.com/app/id000000000"
+    "ios": ""
   },
   "version_popup_interval_hours": 1,
   "promotion_popup_interval_hours": 1,
