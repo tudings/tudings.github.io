@@ -3,8 +3,9 @@
     "android": "https://play.google.com/store/apps/details?id=com.tudings.jid",
     "ios": ""
   },
-  "version_popup_interval_hours": 1,
-  "promotion_popup_interval_hours": 1,
+  "version_popup_interval_hours": 96,
+  "promotion_popup_interval_hours": 96,
+  "rating_popup_interval_hours": 168,
   "locales": {
     "ko": {
       "app_config": {
