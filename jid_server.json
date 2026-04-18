@@ -6,6 +6,18 @@
   "version_popup_interval_hours": 96,
   "promotion_popup_interval_hours": 96,
   "rating_popup_interval_hours": 168,
+  "whisper_models": {
+    "base": {
+      "url": "https://pub-64ac634b58e04c63812942ca698b4e2b.r2.dev/ggml-base.bin",
+      "size_bytes": 147951465,
+      "sha256": "60ed5bc3dd14eea856493d334349b405782ddcaf0028d4b5df4088345fba2efe"
+    },
+    "small": {
+      "url": "https://pub-64ac634b58e04c63812942ca698b4e2b.r2.dev/ggml-small.bin",
+      "size_bytes": 487601967,
+      "sha256":     "1be3a9b2063867b937e64e2ec7483364a79917e157fa98c5d94b5c1fffea987b"
+    }
+  },
   "locales": {
     "ko": {
       "app_config": {
